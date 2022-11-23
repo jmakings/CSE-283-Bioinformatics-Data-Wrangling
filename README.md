@@ -4,7 +4,7 @@
 ### Topics include: 
 - NGS data processing
 - Database filtering
-- Sequence Alignmnet Algorithms
+- Sequence Alignment Algorithms
 - Bloom Filters and other probabilistic, space-efficient structures
 - Genome segmentation with Hidden Markov Models 
 - Mass Spectrometry data processing
